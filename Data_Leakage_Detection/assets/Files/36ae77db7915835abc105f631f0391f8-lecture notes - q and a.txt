@@ -1,0 +1,22 @@
+1) Have you ever wondered what happens in the back-end when you type the URL in the browser?
+
+2) Have you ever thought how are you able to do instant messaging to your friend who is geographically separated?
+
+3) Why do you need to network? What you think are the benefit of networking? How do you apply this in computer networking?
+
+4) How many entities atleast are needed to form a network?
+
+5) How to communicate? - Protocols and Standardization
+
+6) How to identify the user PC to deliver a message? - How does postal system work?
+Concept of Addressing - similar to Postal Address ; Telephone number ; 
+
+7) How do you know the message is delivered?
+
+8) Do you remember all your friends mobile number?
+- lookup - www.google.com ; chennai.vit.ac.in
+
+9) Graph Theory Applications - Computer Networks
+
+10) Role of Certifications - Networking Career
+ 
